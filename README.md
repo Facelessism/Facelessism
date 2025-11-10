@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Learning.+Building.+Improving.;Consistency+over+noise." alt="typing animation" />
 </p>
+
 ### About Me
 Focused on improving technical ability and building a strong foundation.  
 Currently working across frontend, backend, scripting and a bit automation.  
