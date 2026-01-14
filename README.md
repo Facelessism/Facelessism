@@ -5,11 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Learning.+Building.+Improving.;Consistency+over+noise." alt="typing animation" />
   </p>
 
-## Hi there 👋, I'm Facelessism
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Learning.+Building.+Improving.;Consistency+over+noise." alt="typing animation" />
-</p>
-
 <h3 style="color:#BB86FC;">About Me</h3>
 <p>
 Focused on improving technical ability and building a strong foundation.  
