@@ -1,9 +1,15 @@
 <div style="background-color:#121212; color:#E0E0E0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding:2rem; line-height:1.6; text-align:center;">
 
   <h1 style="color:#00F7FF;">Facelessism 👻</h1>
-  <p>
+   
+   <div style="border: 2px solid black; display: inline-block; text-align: center;">
+    <img src="banner.png" alt="Banner" style="display: block; margin: 0 auto;" />
+</div>
+
+<p style="text-align: center;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Learning.+Building.+Improving.;Consistency+over+noise." alt="Typing animation" />
-  </p>
+</p>
+
 
   <h3 style="color:#BB86FC;">🌐 Socials</h3>
   <p>
