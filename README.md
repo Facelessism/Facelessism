@@ -3,7 +3,7 @@
   <h1 style="color:#00F7FF;">Facelessism 👻</h1>
 
 <div style="border: 2px solid black; display: inline-block; text-align: center;">
-    <img src="banner.png" alt="Banner" style="display: block; margin: 0 auto; max-width: 80%;" />
+    <img src="poster.png" alt="Banner" style="display: block; margin: 0 auto; max-width: 80%;" />
 </div>
 
 <div align="center">
