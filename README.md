@@ -26,8 +26,8 @@
   <h3 style="color:#BB86FC;"> About Me</h3>
   <p style="text-align:left;">
     Focused on improving technical ability and building a strong foundation.  
-    Currently working across frontend, backend, scripting, and a bit of automation.  
-    I appreciate clean design, efficient systems, and quiet execution.  
+    Currently working across frontend, backend, scripting and a bit of automation.  
+    I appreciate clean design, efficient systems and quiet execution.  
     Still learning, still building, still curious. 🍃
   </p>
   
@@ -41,8 +41,13 @@
 
   <h3 style="color:#BB86FC;"> Looking to Collaborate On</h3>
   <p style="text-align:left;">
-    Projects with clear direction, purposeful design, and long-term maintainability.
-  </p>
+      I look forward to collaborating, experimenting and building cool & high-end projects.</p>
+  <p style="text-align:left;">
+    Feel free to star my repos, open issues or just connect with me to stay updated on my latest works.</p>
+<p>
+  Check out all my repositories here: 
+  <a href="https://github.com/Facelessism?tab=repositories">My GitHub Repos</a>
+</p>
   
   <h3 style="color:#BB86FC;"> Tech Stack</h3>
   <div style="text-align:left;">
@@ -69,6 +74,22 @@
 <p>
   <img alt="Top Contributed Repositories" src="https://github-contributor-stats.vercel.app/api?username=Facelessism&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
+
+
+
+<h3 style="color:#BB86FC;">🤝 Let's Connect</h3>
+<p>
+  I look forward to collaborating, experimenting and building cool & high-end projects. 
+  Feel free to star my repos, open issues or just connect with me to stay updated on my latest works.
+</p>
+<p>
+  Check out all my repositories here: 
+  <a href="https://github.com/Facelessism?tab=repositories">My GitHub Repos</a>
+</p>
+
+
+
+
 
 
   <h3 style="color:#BB86FC;"> Featured Projects</h3>
