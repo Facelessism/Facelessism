@@ -1,15 +1,17 @@
 <div style="background-color:#121212; color:#E0E0E0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding:2rem; line-height:1.6; text-align:center;">
 
   <h1 style="color:#00F7FF;">Facelessism 👻</h1>
-   
-   <div style="border: 2px solid black; display: inline-block; text-align: center;">
-    <img src="banner.png" alt="Banner" style="display: block; margin: 0 auto;" />
+
+<div style="border: 2px solid black; display: inline-block; text-align: center;">
+    <img src="banner.png" alt="Banner" style="display: block; margin: 0 auto; max-width: 80%;" />
 </div>
 
-<p style="text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Learning.+Building.+Improving.;Consistency+over+noise." alt="Typing animation" />
-</p>
-
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Results+over+recognition;No+face.l+Just+output…;Still+iterating…"
+    alt="Typing animation"
+  />
+</div>
 
   <h3 style="color:#BB86FC;">🌐 Socials</h3>
   <p>
@@ -49,17 +51,25 @@
 
 <h3 style="color:#BB86FC;">📊 GitHub Stats</h3>
 <p>
-  <img alt="GitHub stats" src="https://gprm.itsvg.in/api?username=Facelessism&show_icons=true&theme=dark&hide_border=true">
-  <img alt="Top Languages" src="https://gprm.itsvg.in/api/top-langs/?username=Facelessism&layout=compact&theme=dark&hide_border=true">
-</p>
-<p>
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Facelessism&theme=dark&hide_border=true">
+  <img src="https://img.shields.io/github/followers/Facelessism?label=Followers&logo=github&style=for-the-badge&color=BB86FC&labelColor=0D1117" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Facelessism?label=Stars&logo=github&style=for-the-badge&color=7C7CFF&labelColor=0D1117" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=Facelessism&label=Views&style=for-the-badge&color=00E5FF&labelColor=0D1117" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Status-ACTIVE-00FFB3?style=for-the-badge&labelColor=0D1117" alt="Status">
+  <img src="https://img.shields.io/github/issues/Facelessism/Facelessism?label=Issues&style=for-the-badge&color=F59E0B&labelColor=0D1117">
+  <img src="https://img.shields.io/github/issues-pr/Facelessism/Facelessism?label=PRs&style=for-the-badge&color=22C55E&labelColor=0D1117">
+  <img src="https://img.shields.io/github/contributors/Facelessism/Facelessism?label=Contributors&style=for-the-badge&color=3B82F6&labelColor=0D1117">
 </p>
 
-<h3 style="color:#BB86FC;"> Contribution Graph</h3>
+<h3 style="color:#BB86FC;">📈 Contribution Graph</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/Facelessism/Facelessism/main/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Facelessism&theme=github-dark&hide_border=true" alt="GitHub contribution graph"/>
 </p>
+
+<h3 style="color:#BB86FC;">🔝 Top Contributed Repo</h3>
+<p>
+  <img alt="Top Contributed Repositories" src="https://github-contributor-stats.vercel.app/api?username=Facelessism&limit=5&theme=dark&combine_all_yearly_contributions=true">
+</p>
+
 
   <h3 style="color:#BB86FC;"> Featured Projects</h3>
   <p>
