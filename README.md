@@ -13,16 +13,6 @@
   />
 </div>
 
-  <h3 style="color:#BB86FC;">🌐 Socials</h3>
-  <p>
-    <a href="https://linkedin.com/in" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://x.com" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
-    </a>
-  </p>
-
   <h3 style="color:#BB86FC;"> About Me</h3>
   <p style="text-align:left;">
     Focused on improving technical ability and building a strong foundation.  
@@ -87,11 +77,6 @@
   <a href="https://github.com/Facelessism?tab=repositories">My GitHub Repos</a>
 </p>
 
-
-
-
-
-
   <h3 style="color:#BB86FC;"> Featured Projects</h3>
   <p>
     Currently organizing and building 'em. Projects will be listed here soon.
@@ -100,6 +85,16 @@
   <h3 style="color:#BB86FC;">📝 Important Note</h3>
   <p style="color:#CF6679; font-style:italic;">
     If my code works, I'm just as amazed as you!!! Please don’t touch it!!!
+  </p>
+
+  <h3 style="color:#BB86FC;">🌐 Socials</h3>
+  <p>
+    <a href="https://linkedin.com/in" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://x.com" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+    </a>
   </p>
 
 </div>
