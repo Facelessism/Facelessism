@@ -8,7 +8,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Results+over+recognition;No+face.l+Just+output…;Still+iterating…"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Results+over+recognition;No+face,+Just+output…;Still+iterating…"
     alt="Typing animation"
   />
 </div>
