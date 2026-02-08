@@ -65,18 +65,6 @@
   <img alt="Top Contributed Repositories" src="https://github-contributor-stats.vercel.app/api?username=Facelessism&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
 
-
-
-<h3 style="color:#BB86FC;">🤝 Let's Connect</h3>
-<p>
-  I look forward to collaborating, experimenting and building cool & high-end projects. 
-  Feel free to star my repos, open issues or just connect with me to stay updated on my latest works.
-</p>
-<p>
-  Check out all my repositories here: 
-  <a href="https://github.com/Facelessism?tab=repositories">My GitHub Repos</a>
-</p>
-
   <h3 style="color:#BB86FC;"> Featured Projects</h3>
   <p>
     Currently organizing and building 'em. Projects will be listed here soon.
