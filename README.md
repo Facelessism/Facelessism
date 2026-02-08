@@ -54,11 +54,10 @@
   <img src="https://img.shields.io/github/issues-pr/Facelessism/Facelessism?label=PRs&style=for-the-badge&color=22C55E&labelColor=0D1117">
   <img src="https://img.shields.io/github/contributors/Facelessism/Facelessism?label=Contributors&style=for-the-badge&color=3B82F6&labelColor=0D1117">
 </p>
-
-<h3 style="color:#BB86FC;">📈 Contribution Graph</h3>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Facelessism&theme=github-dark&hide_border=true" alt="GitHub contribution graph"/>
-</p>
+<table><tr>
+<td><img src="https://streak-stats.demolab.com?user=Facelessism&theme=dark&hide_border=true"/><br><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Facelessism&theme=github_dark"/></td>
+<td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Facelessism&theme=github-dark&hide_border=true"/></td>
+</tr></table>
 
 <h3 style="color:#BB86FC;">🔝 Top Contributed Repo</h3>
 <p>
