@@ -56,12 +56,12 @@
 </p>
 <table><tr>
 <td><img src="https://streak-stats.demolab.com?user=Facelessism&theme=dark&hide_border=true"/><br><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Facelessism&theme=github_dark"/></td>
-<td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Facelessism&theme=github-dark&hide_border=true"/></td>
+<td><img alt="Top Contributed Repositories" src="https://github-contributor-stats.vercel.app/api?username=Facelessism&limit=5&theme=dark&combine_all_yearly_contributions=true"></td>
 </tr></table>
 
-<h3 style="color:#BB86FC;">🔝 Top Contributed Repo</h3>
+<h3 style="color:#BB86FC;">📈 Contribution activity graph</h3>
 <p>
-  <img alt="Top Contributed Repositories" src="https://github-contributor-stats.vercel.app/api?username=Facelessism&limit=5&theme=dark&combine_all_yearly_contributions=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Facelessism&theme=github-dark&hide_border=true"/>
 </p>
 
   <h3 style="color:#BB86FC;"> Featured Projects</h3>
