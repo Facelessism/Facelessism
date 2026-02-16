@@ -58,10 +58,8 @@
 <table>
   <tr><td><img src="https://streak-stats.demolab.com?user=Facelessism&theme=dark&hide_border=true"/><br>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Facelessism&theme=github_dark"/></td>
-    <td><img alt="Top Contributed Repositories" src="https://github-contributor-stats.vercel.app/api?username=Facelessism&limit=5&theme=dark&combine_all_yearly_contributions=true"></td></tr>
-  <tr><td colspan="2" style="text-align:center;">
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Facelessism?theme=tokyonight" alt="Facelessism's GitHub Stats" width="48%" />
-    </td></tr>
+    <td><img src="https://github-contributor-stats.vercel.app/api?username=Facelessism&limit=5&theme=dark&combine_all_yearly_contributions=true"/><br>
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Facelessism?theme=tokyonight" width="100%" /></td></tr>
 </table>
 
 <h3 style="color:#BB86FC;">📈 Contribution activity graph</h3>
