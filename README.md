@@ -1,7 +1,10 @@
 <div style="background-color:#121212; color:#E0E0E0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding:2rem; line-height:1.6; text-align:center;">
 
   <h1 style="color:#00F7FF;">Facelessism 👻</h1>
-
+  <p>
+  <img src="https://img.shields.io/badge/Status-ACTIVE-66FF66?style=for-the-badge&labelColor=0D1117" alt="Status">
+  </p>
+ 
 <div style="border: 2px solid black; display: inline-block; text-align: center;">
     <img src="poster.png" alt="Banner" style="display: block; margin: 0 auto; max-width: 80%;" />
 </div>
@@ -49,7 +52,6 @@
   <img src="https://img.shields.io/github/followers/Facelessism?label=Followers&logo=github&style=for-the-badge&color=BB86FC&labelColor=0D1117" alt="Followers">
   <img src="https://img.shields.io/github/stars/Facelessism?label=Stars&logo=github&style=for-the-badge&color=7C7CFF&labelColor=0D1117" alt="Stars">
   <img src="https://komarev.com/ghpvc/?username=Facelessism&label=Views&style=for-the-badge&color=00E5FF&labelColor=0D1117" alt="Profile Views">
-  <img src="https://img.shields.io/badge/Status-ACTIVE-00FFB3?style=for-the-badge&labelColor=0D1117" alt="Status">
   <img src="https://img.shields.io/github/issues/Facelessism/Facelessism?label=Issues&style=for-the-badge&color=F59E0B&labelColor=0D1117">
   <img src="https://img.shields.io/github/issues-pr/Facelessism/Facelessism?label=PRs&style=for-the-badge&color=22C55E&labelColor=0D1117">
   <img src="https://img.shields.io/github/contributors/Facelessism/Facelessism?label=Contributors&style=for-the-badge&color=3B82F6&labelColor=0D1117">
