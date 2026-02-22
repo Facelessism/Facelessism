@@ -1,9 +1,6 @@
-<div style="background-color:#121212; color:#E0E0E0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding:2rem; line-height:1.6; text-align:center;">
-
-  <h1 style="color:#00F7FF;">Facelessism 👻</h1>
-  <p>
+<p>
   <img src="https://img.shields.io/badge/Status-ACTIVE-66FF66?style=for-the-badge&labelColor=0D1117" alt="Status">
-  </p>
+</p>
  
 <div style="border: 2px solid black; display: inline-block; text-align: center;">
     <img src="poster.png" alt="Banner" style="display: block; margin: 0 auto; max-width: 80%;" />
