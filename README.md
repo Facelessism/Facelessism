@@ -6,13 +6,6 @@
     <img src="poster.png" alt="Banner" style="display: block; margin: 0 auto; max-width: 80%;" />
 </div>
 
-<div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Results+over+recognition;No+face,+Just+output…;Still+iterating…"
-    alt="Typing animation"
-  />
-</div>
-
   <h3 style="color:#BB86FC;"> About Me</h3>
   <p style="text-align:left;">
     Focused on improving technical ability and building a strong foundation.  
