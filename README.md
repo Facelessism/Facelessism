@@ -11,7 +11,7 @@
     Focused on improving technical ability and building a strong foundation.  
     Currently working across frontend, backend, scripting and a bit of automation.  
     I appreciate clean design, efficient systems and quiet execution.  
-    Still learning, still building, still curious. 🍃
+    Still learning, still building, still curious...
   </p>
   
   <h3 style="color:#BB86FC;"> Currently Learning</h3>
