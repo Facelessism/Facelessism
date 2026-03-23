@@ -37,7 +37,7 @@
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,mongodb,aws,git,html,css,java,postman" height="2400" alt="Tech Stack Icons" />
   </div>
 
-<h3 style="color:#BB86FC;">📊 GitHub Stats</h3>
+<h3 style="color:#BB86FC;"> GitHub Stats</h3>
 <p>
   <img src="https://img.shields.io/github/followers/Facelessism?label=Followers&logo=github&style=for-the-badge&color=BB86FC&labelColor=0D1117" alt="Followers">
   <img src="https://img.shields.io/github/stars/Facelessism?label=Stars&logo=github&style=for-the-badge&color=7C7CFF&labelColor=0D1117" alt="Stars">
@@ -54,12 +54,12 @@
       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Facelessism?theme=tokyonight" width="100%" /></td></tr>
 </table>
 
-<h3 style="color:#BB86FC;">📈 Contribution activity graph</h3>
+<h3 style="color:#BB86FC;"> Contribution activity graph</h3>
 <p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Facelessism&theme=github-dark&hide_border=true"/>
 </p>
 
-<h3 style="color:#BB86FC;">🎖️ Github Badges</h3>
+<h3 style="color:#BB86FC;"> Github Badges</h3>
 <p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Facelessism&theme=dracula&hide_border=true" alt="GitHub Trophies" />
 </p>
@@ -69,12 +69,12 @@
     Currently organizing and building 'em. Projects will be listed here soon.
   </p>
 
-  <h3 style="color:#BB86FC;">📝 Important Note</h3>
+  <h3 style="color:#BB86FC;"> Important Note</h3>
   <p style="color:#CF6679; font-style:italic;">
     If my code works, I'm just as amazed as you!!! Please don’t touch it!!!
   </p>
 
-  <h3 style="color:#BB86FC;">🌐 Socials</h3>
+  <h3 style="color:#BB86FC;"> Socials</h3>
   <p>
     <a href="https://linkedin.com/in" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
