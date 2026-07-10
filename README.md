@@ -76,11 +76,14 @@
 
   <h3 style="color:#BB86FC;"> Socials</h3>
   <p>
-    <a href="https://linkedin.com/in" target="_blank">
+    <a href="https://www.linkedin.com/in/bighna-raj-bhattamishra-a24a6933a" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://x.com" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+    <a href="mailto: bighna2005@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"
+    </a>
+    <a href="https://discord.com/users/lost_fanatic_93297" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
   </p>
 
