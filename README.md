@@ -1,90 +1,82 @@
-<p>
-  <img src="https://img.shields.io/badge/Status-ACTIVE-66FF66?style=for-the-badge&labelColor=0D1117" alt="Status">
-</p>
- 
-<div style="border: 2px solid black; display: inline-block; text-align: center;">
-    <img src="poster.png" alt="Banner" style="display: block; margin: 0 auto; max-width: 80%;" />
+<div align="center">
+  <img src="poster.png" alt="Facelessism banner" width="100%">
 </div>
 
-  <h3 style="color:#BB86FC;"> About Me</h3>
-  <p style="text-align:left;">
-    Focused on improving technical ability and building a strong foundation.  
-    Currently working across frontend, backend, scripting and a bit of automation.  
-    I appreciate clean design, efficient systems and quiet execution.  
-    Still learning, still building, still curious...
-  </p>
-  
-  <h3 style="color:#BB86FC;"> Currently Learning</h3>
-  <ul style="text-align:left;">
-    <li>Modern JavaScript development patterns</li>
-    <li>Web Development</li>
-    <li>Python scripting & Python for automation and backend tasks</li>
-    <li>Modern project architecture and workflow discipline</li>
-  </ul>
-
-  <h3 style="color:#BB86FC;"> Looking to Collaborate On</h3>
-  <p style="text-align:left;">
-      I look forward to collaborating, experimenting and building cool & high-end projects.</p>
-  <p style="text-align:left;">
-    Feel free to star my repos, open issues or just connect with me to stay updated on my latest works.</p>
-<p>
-  Check out all my repositories here: 
-  <a href="https://github.com/Facelessism?tab=repositories">My GitHub Repos</a>
-</p>
-  
-  <h3 style="color:#BB86FC;"> Tech Stack</h3>
-  <div style="text-align:left;">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,mongodb,aws,git,html,css,java,postman" height="2400" alt="Tech Stack Icons" />
-  </div>
-
-<h3 style="color:#BB86FC;"> GitHub Stats</h3>
-<p>
-  <img src="https://img.shields.io/github/followers/Facelessism?label=Followers&logo=github&style=for-the-badge&color=BB86FC&labelColor=0D1117" alt="Followers">
-  <img src="https://img.shields.io/github/stars/Facelessism?label=Stars&logo=github&style=for-the-badge&color=7C7CFF&labelColor=0D1117" alt="Stars">
-  <img src="https://komarev.com/ghpvc/?username=Facelessism&label=Views&style=for-the-badge&color=00E5FF&labelColor=0D1117" alt="Profile Views">
-  <img src="https://img.shields.io/github/issues/Facelessism/Facelessism?label=Issues&style=for-the-badge&color=F59E0B&labelColor=0D1117">
-  <img src="https://img.shields.io/github/issues-pr/Facelessism/Facelessism?label=PRs&style=for-the-badge&color=22C55E&labelColor=0D1117">
-  <img src="https://img.shields.io/github/contributors/Facelessism/Facelessism?label=Contributors&style=for-the-badge&color=3B82F6&labelColor=0D1117">
-</p>
-
-<table>
-  <tr><td><img src="https://streak-stats.demolab.com?user=Facelessism&theme=dark&hide_border=true"/><br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Facelessism&theme=github_dark"/></td>
-    <td><img src="https://github-contributor-stats.vercel.app/api?username=Facelessism&limit=5&theme=dark&combine_all_yearly_contributions=true"/><br>
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Facelessism?theme=tokyonight" width="100%" /></td></tr>
-</table>
-
-<h3 style="color:#BB86FC;"> Contribution activity graph</h3>
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Facelessism&theme=github-dark&hide_border=true"/>
-</p>
-
-<h3 style="color:#BB86FC;"> Github Badges</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Facelessism&theme=dracula&hide_border=true" alt="GitHub Trophies" />
-</p>
-
-  <h3 style="color:#BB86FC;"> Featured Projects</h3>
-  <p>
-    Currently organizing and building 'em. Projects will be listed here soon.
-  </p>
-
-  <h3 style="color:#BB86FC;"> Important Note</h3>
-  <p style="color:#CF6679; font-style:italic;">
-    If my code works, I'm just as amazed as you!!! Please don’t touch it!!!
-  </p>
-
-  <h3 style="color:#BB86FC;"> Socials</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/bighna-raj-bhattamishra-a24a6933a" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto: bighna2005@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"
-    </a>
-    <a href="https://discord.com/users/lost_fanatic_93297" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-  </p>
-
+<div align="center">
+  <h2><em>The wise leave no trace of needless work.</em></h2>
+  <h3>Developer tooling · Static analysis · Repository intelligence</h3>
 </div>
+
+<h3>About Me</h3>
+
+<p>
+  I am interested in the parts of software that people stop noticing until they break.
+  <br><br>
+  The stale documentation nobody updates. The debugging statement that survives a merge. The dependency nobody realizes is affected by a change. The abstraction that creates more work than it removes.
+  <br><br>
+  I build small tools around these problems. I prefer deterministic checks over guesswork and useful constraints over another layer of configuration. The goal is not to build more software. It is to make existing software harder to misunderstand and easier to maintain.
+</p>
+
+<h3>My Featured Projects</h3>
+
+<p>
+  <strong><a href="https://github.com/Facelessism/PettyLint">PettyLint</a></strong>
+  <br>
+  A static-analysis GitHub Action for JavaScript and TypeScript that catches the little things left behind in changed code: debugging artifacts, empty catch blocks and TODO/FIXME markers.
+  <br>
+  <sub>TypeScript · Static Analysis · GitHub Actions</sub>
+</p>
+
+<p>
+  <strong><a href="https://github.com/Facelessism/DocEye">DocEye</a></strong>
+  <br>
+  A GitHub Action for catching documentation drift. It checks whether repository details such as scripts, file paths, package-manager references and workflows still match what the documentation claims.
+  <br>
+  <sub>Documentation Validation · Repository Consistency · CI Automation</sub>
+</p>
+
+<p>
+  <strong><a href="https://github.com/Facelessism/repo-engine">Repo Engine</a></strong>
+  <br>
+  Repository structure analysis focused on making codebases easier to navigate and reason about.
+  <br>
+  <sub>Repository Analysis · Codebase Structure</sub>
+</p>
+
+<p>
+  <strong><a href="https://github.com/Facelessism/cradle">Cradle</a></strong>
+  <br>
+  A curated archive of experiments and projects. A place for ideas to become actual repositories rather than permanent entries on a someday list.
+  <br>
+  <sub>Open Source · Experiments · Project Archive</sub>
+</p>
+
+<h3>Tools I Work With</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,mongodb,express,git,githubactions,vitest" height="40" alt="JavaScript, TypeScript, Python, Node.js, React, MongoDB, Express.js, Git, GitHub Actions and Vitest">
+</div>
+
+<h3>GitHub Activity</h3>
+
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Facelessism&theme=github_dark&hide_border=true"
+    alt="GitHub profile statistics"
+    width="100%"
+  >
+</div>
+
+<h3>Connnect with me!!!</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/bighna-raj-bhattamishra-a24a6933a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:bighna2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://discord.com/users/lost_fanatic_93297">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
