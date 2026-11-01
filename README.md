@@ -10,11 +10,7 @@
 <h3>About Me</h3>
 
 <p>
-  I am interested in the parts of software that people stop noticing until they break.
-  <br><br>
-  The stale documentation nobody updates. The debugging statement that survives a merge. The dependency nobody realizes is affected by a change. The abstraction that creates more work than it removes.
-  <br><br>
-  I build small tools around these problems. I prefer deterministic checks over guesswork and useful constraints over another layer of configuration. The goal is not to build more software. It is to make existing software harder to misunderstand and easier to maintain.
+  I know some programming languages...
 </p>
 
 <h3>My Featured Projects</h3>
